@@ -20,17 +20,17 @@ namespace HelloWorld.Controllers
         }
 
         //CRUD
-        //Create
+        //Create -> funciona
         [HttpPost]
         public IActionResult Create(Person person)
         {
-            PersonDAO personDAO = new PersonDAO(_connection);
+            IDAO<Person> personDAO = new PersonDAO(_connection);
             personDAO.Create(person);
 
-            return CreatedAtRoute("Get Person", new { id = person }, person);
+            return CreatedAtRoute("Get Person", new { id = person.Id }, person);
         }
 
-        //READ
+        //READ -> funciona
         [HttpGet("{id}", Name = "Get Person")]
         public ActionResult<Person> GetById(long id)
         {
@@ -44,6 +44,7 @@ namespace HelloWorld.Controllers
             return person;
         }
 
+        //Getall -> funciona
         [HttpGet]
         public ActionResult<List<Person>> GetAll()
         {
@@ -72,7 +73,7 @@ namespace HelloWorld.Controllers
             return NoContent();
         }
 
-        //Delete
+        //Delete -> funciona
         [HttpDelete("{id}")]
         public IActionResult Delete(long id)
         {

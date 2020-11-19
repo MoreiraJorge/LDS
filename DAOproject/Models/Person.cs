@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace DAOproject.Models
+﻿namespace DAOproject.Models
 {
     public class Person
     {

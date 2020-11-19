@@ -12,11 +12,26 @@ namespace DAOproject.Data_Access
     {
         private SqlConnection _connection;
 
-        //User ID=user; Password=pwd
         public Connection()
         {
-            _connection = new SqlConnection(
-                "Data Source=DESKTOP-MG0PNAP; Initial Catalog=testDB; Integrated security=SSPI");
+            SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
+            builder.DataSource = "housem8sql.database.windows.net";
+            builder.UserID = "Marcelo";
+            builder.Password = "HOUSEM8_SQL";
+            builder.InitialCatalog = "testDB";
+            builder.Encrypt = true;
+            
+
+            _connection = new SqlConnection(builder.ConnectionString);
+
+            /*
+             * "Data Source=housem8sql.database.windows.net;" +
+                " User ID=Jorge Password=Moreira_SQL; " +
+                " Initial Catalog=testDB; " +
+                " Integrated security=False");
+             */
+
+            //Server = tcp:myserver.database.windows.net,1433; Database = myDataBase; User ID = mylogin@myserver; Password = myPassword; Trusted_Connection = False; Encrypt = True;
         }
 
         public void Close()
@@ -33,7 +48,6 @@ namespace DAOproject.Data_Access
             GC.SuppressFinalize(this);
         }
 
-        //Buscar a ligação
         public SqlConnection Fetch()
         {
             return this.Open();
@@ -41,7 +55,7 @@ namespace DAOproject.Data_Access
 
         public SqlConnection Open()
         {
-           if(_connection.State == ConnectionState.Open )
+           if(_connection.State == ConnectionState.Closed)
             {
                 _connection.Open();
             }

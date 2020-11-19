@@ -1,12 +1,9 @@
 ﻿using DAOproject.Interfces;
 using DAOproject.Models;
 using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Data;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace DAOproject.Data_Access
 {
@@ -16,20 +13,17 @@ namespace DAOproject.Data_Access
 
         public PersonDAO(IConnection connection)
         {
-            _connection = connection;
+            this._connection = connection;
         }
 
         public Person Create(Person model)
         {
             using (SqlCommand cmd = _connection.Fetch().CreateCommand())
             {
-                cmd.Connection.Open();
-
                 cmd.CommandType = CommandType.Text;
-                cmd.CommandText = "INSERT INTO Person (Id, FirstName, LastName, Age, Email) " +
-                    "VALUES (@id, @fn, @ln, @age, @email); SELECT @@Identity";
+                cmd.CommandText = "INSERT INTO Person (FirstName, LastName, Age, Email)" +
+                    "VALUES (@fn, @ln, @age, @email); SELECT @@Identity";
 
-                cmd.Parameters.Add("@id", SqlDbType.Int).Value = model.Id;
                 cmd.Parameters.Add("@fn", SqlDbType.Text).Value = model.FirstName;
                 cmd.Parameters.Add("@ln", SqlDbType.Text).Value = model.LastName;
                 cmd.Parameters.Add("@age", SqlDbType.Int).Value = model.Age;
@@ -37,7 +31,6 @@ namespace DAOproject.Data_Access
 
                 model.Id = int.Parse(cmd.ExecuteScalar().ToString());
             }
-
             return model;
         }
 
@@ -69,8 +62,8 @@ namespace DAOproject.Data_Access
             Person p = null;
             using (SqlCommand cmd = _connection.Fetch().CreateCommand())
             {
-                cmd.CommandType = System.Data.CommandType.Text;
-                cmd.CommandText = "SELECT Id, FirstName, LastName, Age, Email FROM Person" +
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = "SELECT Id, FirstName, LastName, Age, Email FROM Person " +
                     "WHERE Id=@id";
 
                 cmd.Parameters.Add("@id", SqlDbType.Int).Value = keys[0];
@@ -98,7 +91,7 @@ namespace DAOproject.Data_Access
 
             using (SqlCommand cmd = _connection.Fetch().CreateCommand())
             {
-                cmd.CommandType = System.Data.CommandType.Text;
+                cmd.CommandType = CommandType.Text;
                 cmd.CommandText = "SELECT Id, FirstName, LastName, Age, Email FROM Person ORDER BY FirstName";
 
                 using (SqlDataAdapter adpt = new SqlDataAdapter(cmd))
@@ -120,7 +113,6 @@ namespace DAOproject.Data_Access
 
                     }
                 }
-
             }
             return people;
         }
@@ -130,14 +122,15 @@ namespace DAOproject.Data_Access
             using (SqlCommand cmd = _connection.Fetch().CreateCommand())
             {
                 cmd.CommandType = CommandType.Text;
-                cmd.CommandText = "UPDATE Person" +
-                    "SET FirstName=@fn, LasName=@ln, Age=@age, Email=@email" +
+                cmd.CommandText = "UPDATE Person " +
+                    "SET FirstName=@fn, LastName=@ln, Age=@age, Email=@email " +
                     "WHERE Id=@id";
 
                 cmd.Parameters.Add("@fn", SqlDbType.Text).Value = model.FirstName;
                 cmd.Parameters.Add("@ln", SqlDbType.Text).Value = model.LastName;
                 cmd.Parameters.Add("@age", SqlDbType.Int).Value = model.Age;
                 cmd.Parameters.Add("@email", SqlDbType.Text).Value = model.Email;
+                cmd.Parameters.Add("@id", SqlDbType.Int).Value = model.Id;
 
                 cmd.ExecuteNonQuery();
             }
