@@ -1,0 +1,126 @@
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\appsettings.json
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Humanizer.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\staticwebassets\HelloWorld.StaticWebAssets.Manifest.cache
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\staticwebassets\HelloWorld.StaticWebAssets.xml
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\scopedcss\bundle\HelloWorld.styles.css
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.RazorTargetAssemblyInfo.cache
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CopyComplete
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\morei\Desktop\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\appsettings.json
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Humanizer.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\staticwebassets\HelloWorld.StaticWebAssets.Manifest.cache
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\staticwebassets\HelloWorld.StaticWebAssets.xml
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\scopedcss\bundle\HelloWorld.styles.css
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.RazorTargetAssemblyInfo.cache
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CopyComplete
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\morei\OneDrive\LEI\3º Ano\1º Semestre\LDS\Práticas\Nova pasta\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
