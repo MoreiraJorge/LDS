@@ -1034,11 +1034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\morei\\OneDrive\\LEI\\3º Ano\\1º Semestre\\LDS\\Práticas\\DAOproject\\DAOproject\\DAOproject.csproj",
+      "projectUniqueName": "C:\\Repos\\LDS\\DAOproject\\DAOproject.csproj",
       "projectName": "DAOproject",
-      "projectPath": "C:\\Users\\morei\\OneDrive\\LEI\\3º Ano\\1º Semestre\\LDS\\Práticas\\DAOproject\\DAOproject\\DAOproject.csproj",
+      "projectPath": "C:\\Repos\\LDS\\DAOproject\\DAOproject.csproj",
       "packagesPath": "C:\\Users\\morei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\morei\\OneDrive\\LEI\\3º Ano\\1º Semestre\\LDS\\Práticas\\DAOproject\\DAOproject\\obj\\",
+      "outputPath": "C:\\Repos\\LDS\\DAOproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\morei\\AppData\\Roaming\\NuGet\\NuGet.Config",

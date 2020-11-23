@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xmi93kMVz4EWGK+MZhCg7nKWecWLh23L20K01qeUWi7sW/rtq4GQwa/MQ3SahBufssE7nBPQg8KV+jE47vgzAA==",
+  "dgSpecHash": "q6sO8DF/JOjT2kQM+OnvvgrBC31kX4GBAQPNv0/Oj39aMlBVO74oDE/sAVbhc2b7oZGNmC23w3v3dVVr0nef5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\morei\\OneDrive\\LEI\\3º Ano\\1º Semestre\\LDS\\Práticas\\Nova pasta\\HelloWorld\\aspNetETFexample.csproj",
+  "projectFilePath": "C:\\Repos\\LDS\\aspNetETFexample\\aspNetETFexample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morei\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\morei\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",

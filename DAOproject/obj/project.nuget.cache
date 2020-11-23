@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cwo9XeL7BLv5Y9O0bpbxDdycw7nkn46GhN2CAV/v90798iKa9wnmLPSbQKjTn0eibnxhdoZz6e8F0Q+ULxhhmA==",
+  "dgSpecHash": "KmSKfSIQhTc2bGkLB3H5hpRNHe4lx42aHCXHR+fvsQ6UGXTzoPEhVDGNngYx3OcN6QgdCKwITUqd1DQJ4GdGoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\morei\\OneDrive\\LEI\\3º Ano\\1º Semestre\\LDS\\Práticas\\DAOproject\\DAOproject\\DAOproject.csproj",
+  "projectFilePath": "C:\\Repos\\LDS\\DAOproject\\DAOproject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morei\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\morei\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",

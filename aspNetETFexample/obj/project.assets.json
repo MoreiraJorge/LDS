@@ -1577,11 +1577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\morei\\OneDrive\\LEI\\3º Ano\\1º Semestre\\LDS\\Práticas\\Nova pasta\\HelloWorld\\aspNetETFexample.csproj",
+      "projectUniqueName": "C:\\Repos\\LDS\\aspNetETFexample\\aspNetETFexample.csproj",
       "projectName": "aspNetETFexample",
-      "projectPath": "C:\\Users\\morei\\OneDrive\\LEI\\3º Ano\\1º Semestre\\LDS\\Práticas\\Nova pasta\\HelloWorld\\aspNetETFexample.csproj",
+      "projectPath": "C:\\Repos\\LDS\\aspNetETFexample\\aspNetETFexample.csproj",
       "packagesPath": "C:\\Users\\morei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\morei\\OneDrive\\LEI\\3º Ano\\1º Semestre\\LDS\\Práticas\\Nova pasta\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Repos\\LDS\\aspNetETFexample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\morei\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,26 @@
+//Adiconar Carro
+{
+    "Name":"Porsche",
+    "Model":"911"
+}
+
+//Adicionar com carro novo
+{
+    "Name":"João",
+    "Email":"129@gmail.com",
+    "Cars":[{
+        "Name":"BMW",
+        "Model":"M4"
+    }]
+}
+
+//Adicionar sem carro
+{
+    "Name":"João",
+    "Email":"129@gmail.com"
+}
+
+//Adicionar carro ao user
+{
+ "Car":3
+}
